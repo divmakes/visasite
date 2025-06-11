@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node index.js"
+}
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
